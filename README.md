@@ -76,13 +76,6 @@
 
 ---
 
-
-# 📐 System Architecture
-
-
-
----
-
 # 📸 Project Results
 
 ## Hardware 
