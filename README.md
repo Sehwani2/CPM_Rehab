@@ -90,6 +90,8 @@
 
 
 ## UI Screen
+<img width="500" height="300" alt="Active_mode" src="https://github.com/user-attachments/assets/abe2823c-90b4-4885-aead-1e6f8ad71537" />
+<img width="500" height="300" alt="passive_mode" src="https://github.com/user-attachments/assets/bb0dc754-b9fc-44ae-9475-4171b9bf9827" />
 
 
 ---
