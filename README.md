@@ -86,6 +86,8 @@
 # 📸 Project Results
 
 ## Hardware 
+<img width="300" height="500" alt="KakaoTalk_20250401_111435966" src="https://github.com/user-attachments/assets/9d943e2e-9dc2-4193-ae17-9244ba8d119b" />
+<img width="500" height="300" alt="KakaoTalk_20250401_195150345_03" src="https://github.com/user-attachments/assets/7e5eb5f8-5465-4dba-b098-b9194d1f909e" />
 
 
 
